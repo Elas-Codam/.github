@@ -30,7 +30,7 @@ Estamos empolgadas para ter você conosco na Organização Elas Codam. Juntas, v
 Conecte-se conosco:
 
 - Whatsapp: [@elas.codam](https://chat.whatsapp.com/ImzzXVhVKy0BuB373AALgt)
-- Discord: (https://discord.com/channels/1068239704694194216/1068239704694194219)
+- Discord: 
 - Instagram: Em breve
 
 Vamos codar e conquistar o mundo juntas!
