@@ -1,4 +1,4 @@
-<a href="https://github.com/Elas-Codam"><img align="right" alt="Logo-elasCodam" height="128" width="128" src="(https://github.com/Elas-Codam/.github/blob/main/profile/1.png?raw=true)"></a>
+<a href="https://github.com/Elas-Codam"><img align="right" alt="Logo-elasCodam" height="128" width="128" src="https://github.com/Elas-Codam/.github/blob/main/profile/1.png?raw=true"></a>
 # Bem-vindas à Organização Elas Codam!
 
 ## Quem Somos 📚
