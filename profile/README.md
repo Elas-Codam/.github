@@ -1,4 +1,4 @@
-# Bem-vindas à Organização Elas Codam no GitHub!
+# Bem-vindas à Organização Elas Codam!
 
 ## Quem Somos 📚
 
